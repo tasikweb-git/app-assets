@@ -1,17 +1,12 @@
 [
   {
     "name": "Printing Cost Pro",
-    "iconUrl": "https://raw.githubusercontent.com/tasikweb/app-configs/main/icons/ic_printing_pro.png",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/printcost.png",
     "packageName": "com.tasikweb.printingcostcalculator.pro"
   },
   {
-    "name": "Barcode Scanner Utility",
-    "iconUrl": "https://raw.githubusercontent.com/tasikweb/app-configs/main/icons/ic_barcode.png",
+    "name": "PrintCost PRO",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/printcost.png",
     "packageName": "com.tasikweb.barcodescanner.utility"
-  },
-  {
-    "name": "Invoice Maker & POS",
-    "iconUrl": "https://raw.githubusercontent.com/tasikweb/app-configs/main/icons/ic_invoice.png",
-    "packageName": "com.tasikweb.invoicemaker.pos"
   }
 ]
