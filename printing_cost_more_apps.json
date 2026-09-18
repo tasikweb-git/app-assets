@@ -1,12 +1,12 @@
 [
   {
-    "name": "Printing Cost Pro",
-    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/printcost.png",
-    "packageName": "com.tasikweb.printingcostcalculator.pro"
+    "name": "HitPrint: Printing Cost Calculator",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_hitprint.png",
+    "packageName": "com.tasikweb.printingcostcalculator"
   },
   {
-    "name": "PrintCost PRO",
-    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/printcost.png",
-    "packageName": "com.tasikweb.barcodescanner.utility"
+    "name": "CutPro: Cutting Paper Calculator",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_cutpro.png",
+    "packageName": "com.tasikweb.cuttingcalculator"
   }
 ]
