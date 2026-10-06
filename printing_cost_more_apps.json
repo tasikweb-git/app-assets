@@ -8,5 +8,10 @@
     "name": "CutPro: Cutting Paper Calculator",
     "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_cutpro.png",
     "packageName": "com.tasikweb.cuttingcalculator"
+  },
+  {
+    "name": "AllowBT-Printer Assistant",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_allowbt.png",
+    "packageName": "com.tasikweb.allowbt"
   }
 ]
