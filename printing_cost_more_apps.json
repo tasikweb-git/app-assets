@@ -13,5 +13,15 @@
     "name": "AllowBT-Printer Assistant",
     "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_allowbt.png",
     "packageName": "com.tasikweb.allowbt"
+  },
+  {
+    "name": "NodeBreach: Cyber Coding RPG",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_nodebreach.png",
+    "packageName": "com.tasikweb.nodebreach"
+  },
+  {
+    "name": "BrainSpark: Tes IQ & Logika",
+    "iconUrl": "https://raw.githubusercontent.com/tasikweb-git/app-assets/refs/heads/main/icons/icon_brainspark.png",
+    "packageName": "com.tasikweb.brainspark"
   }
 ]
